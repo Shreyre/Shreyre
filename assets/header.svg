@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-labelledby="title desc">
+<title id="title">Shrey Patel — Backend and AI Engineer</title>
+<desc id="desc">Building useful intelligence: multimodal AI, multi-agent systems, and dependable backend services. Animated data moves from input through reasoning to delivery.</desc>
+<defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#101e36"/><stop offset="1" stop-color="#080e1c"/></linearGradient><linearGradient id="accent"><stop stop-color="#67e8f9"/><stop offset="1" stop-color="#818cf8"/></linearGradient><pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" fill="none" stroke="#94a3b8" stroke-opacity=".055"/></pattern></defs>
+<style>
+text{font-family:Segoe UI,Arial,sans-serif}.mono{font-family:Consolas,monospace}.packet{stroke-dasharray:7 65;animation:flow 4s linear infinite}.pulse{animation:pulse 3s ease-in-out infinite}.cursor{animation:blink 1.2s steps(2,end) infinite}.line1{animation:first 12s infinite}.line2{opacity:0;animation:second 12s infinite}.line3{opacity:0;animation:third 12s infinite}@keyframes flow{to{stroke-dashoffset:-144}}@keyframes pulse{50%{opacity:.3}}@keyframes blink{50%{opacity:0}}@keyframes first{0%,26%,100%{opacity:1}33%,93%{opacity:0}}@keyframes second{0%,27%,66%,100%{opacity:0}34%,59%{opacity:1}}@keyframes third{0%,60%,100%{opacity:0}67%,93%{opacity:1}}@media(prefers-reduced-motion:reduce){.packet,.pulse,.cursor,.line1,.line2,.line3{animation:none}.line1{opacity:1}.line2,.line3{opacity:0}}
+</style>
+<rect width="1200" height="360" rx="24" fill="url(#bg)"/><rect width="1200" height="360" rx="24" fill="url(#grid)"/><rect x=".5" y=".5" width="1199" height="359" rx="24" fill="none" stroke="#27364b"/>
+<rect x="48" y="48" width="5" height="24" rx="2" fill="#67e8f9"/><text x="68" y="66" font-size="15" letter-spacing="3" fill="#a5b4fc" class="mono">SOFTWARE ENGINEER / BACKEND + AI</text>
+<text x="46" y="144" font-size="64" font-weight="700" letter-spacing="-2" fill="#f8fafc">Shrey Patel<tspan fill="#67e8f9">.</tspan></text>
+<text x="50" y="189" font-size="24" fill="#cbd5e1">Building useful intelligence.</text>
+<g font-size="16" fill="#67e8f9" class="mono"><text x="50" y="239" class="line1">&gt; multimodal AI workflows</text><text x="50" y="239" class="line2">&gt; multi-agent systems</text><text x="50" y="239" class="line3">&gt; dependable backend services</text></g>
+<text x="50" y="310" font-size="14" fill="#94a3b8" class="mono">PYTHON  /  C#  /  TYPESCRIPT  /  CLOUD</text>
+<g transform="translate(712 65)"><rect width="440" height="230" rx="14" fill="#0b1220" stroke="#334155"/><path d="M0 40H440" stroke="#243248"/><circle cx="22" cy="21" r="4" fill="#fb7185"/><circle cx="39" cy="21" r="4" fill="#fbbf24"/><circle cx="56" cy="21" r="4" fill="#34d399"/><text x="81" y="26" font-size="12" class="mono" fill="#94a3b8">idea → system → impact</text>
+<path d="M61 113H380" stroke="#334155" stroke-width="2"/><path d="M61 113H380" stroke="url(#accent)" stroke-width="3" class="packet"/>
+<g fill="#111e32" stroke="#475569"><rect x="27" y="87" width="96" height="52" rx="9"/><rect x="171" y="87" width="96" height="52" rx="9"/><rect x="315" y="87" width="96" height="52" rx="9"/></g><g fill="#e2e8f0" font-size="13" text-anchor="middle" class="mono"><text x="75" y="118">INPUT</text><text x="219" y="118">REASON</text><text x="363" y="118">DELIVER</text></g>
+<circle cx="32" cy="187" r="4" fill="#67e8f9" class="pulse"/><text x="45" y="192" font-size="13" fill="#94a3b8" class="mono">from prototype to production</text><rect x="368" y="180" width="8" height="15" fill="#67e8f9" class="cursor"/></g>
+</svg>
